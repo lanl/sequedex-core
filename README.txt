@@ -5,7 +5,6 @@ Quick start instructions for installing and running Sequedex are
 available as a pdf file (SequedexQuickStart.pdf) or Word document
 (SequedexQuickStart.docx) in the doc directory.
 
-For more information on Sequedex, visit http://sequedex.lanl.gov.
 Online documentation can be found at  https://sequedex.readthedocs.io/en/latest/.
 It should be noted that both the sequedex website and the online documentation were 
 written for Sequedex Version 1 and thus are currently out of date.  However, updates
